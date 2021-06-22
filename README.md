@@ -1,5 +1,5 @@
-# Weather Detection
-Hi I made this project using <b><i>Python</i></b>.
+# Data Analysis and Data Dashboard
+Hi I made this project using <b><i>Microsoft Excel 2019</i></b>.
 <p>You can follow me on:</p>
 <ul>
   <li><a href="https://www.linkedin.com/in/rushabh-koradia/">LinkedIn</a>
